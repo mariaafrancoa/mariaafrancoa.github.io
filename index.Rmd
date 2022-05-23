@@ -1,0 +1,17 @@
+---
+title: "Maria-Franco"
+output: html_document
+---
+
+```{r echo=FALSE}
+mtcars
+```
+
+## Subtitulo 1
+<h2> Subtitulo B </h2>
+<!--- subtitulo es h2 --->
+<hr width=2000;hight=2000;color="red">
+### Subsubtitulo
+* hola 
+* hola 
+
